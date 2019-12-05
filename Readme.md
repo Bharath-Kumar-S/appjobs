@@ -1,4 +1,4 @@
-# Programming task:
+# Programming tasks:
  - please use JavaScript
  - put code online as a snippet, git repository, gist, etc 
  - send a link to your code.
